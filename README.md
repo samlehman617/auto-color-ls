@@ -2,9 +2,9 @@
 
 zsh plugin to automatically `ls` using [colorls](https://github.com/athityakumar/colorls) on `cd`
 
-## installation
+## Installation
 
-### prerequisites
+### Prerequisites
 
 - colorls
 
@@ -22,6 +22,7 @@ antigen bundle samlehman617/auto-color-ls
 
 ```bash
 zplug 'samlehman617/auto-color-ls'
+```
 
 ### zplugin
 
