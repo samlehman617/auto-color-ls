@@ -42,4 +42,4 @@ zgen load samlehman617/auto-color-ls
 - `git clone https://github.com/samlehman617/auto-color-ls`
 - add `auto-color-ls` to `plugins=()` in your `.zshrc`
 
-Forked from: (gretzky/auto-color-ls)[https://github.com/gretzky/auto-color-ls]
+Forked from: [gretzky/auto-color-ls](https://github.com/gretzky/auto-color-ls)
