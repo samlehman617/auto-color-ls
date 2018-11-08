@@ -4,4 +4,4 @@ auto-color-ls() {
 	colorls -A --group-directories-first
 }
 
-chpwd_functions=(auto-color-ls $chpwd_functions)
+chpwd_functions=($chpwd_functions auto-color-ls)

@@ -15,23 +15,30 @@ gem install colorls
 ### antigen
 
 ```bash
-antigen bundle gretzky/auto-color-ls
+antigen bundle samlehman617/auto-color-ls
 ```
+
+### zplug
+
+```bash
+zplug 'samlehman617/auto-color-ls'
 
 ### zplugin
 
 ```bash
-zplugin load gretzky/auto-color-ls
+zplugin load samlehman617/auto-color-ls
 ```
 
 ### zgen
 
 ```bash
-zgen load gretzky/auto-color-ls
+zgen load samlehman617/auto-color-ls
 ```
 
 ### oh-my-zsh
 
 - cd `~/.oh-my-zsh/custom/plugins`
-- `git clone https://github.com/gretzky/auto-color-ls`
+- `git clone https://github.com/samlehman617/auto-color-ls`
 - add `auto-color-ls` to `plugins=()` in your `.zshrc`
+
+Forked from: (gretzky/auto-color-ls)[https://github.com/gretzky/auto-color-ls]
